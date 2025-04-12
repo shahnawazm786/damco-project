@@ -26,5 +26,4 @@ public class MobileTest extends MobileBaseTest{
     public void div(){
         cal.divisionOperation(8,2);
     }
-
 }
