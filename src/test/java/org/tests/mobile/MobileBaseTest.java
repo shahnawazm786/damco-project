@@ -23,7 +23,8 @@ public abstract class MobileBaseTest {
     capabilities.setCapability("appium:platformVersion","14");
     capabilities.setCapability("appium:ignoreHiddenApiPolicyError",true);
     capabilities.setCapability("appium:noReset",true);
-    capabilities.setCapability("appium:app","c:/apk_file/Calculator.apk");
+    //capabilities.setCapability("appium:app","c:/apk_file/Calculator.apk");
+        capabilities.setCapability("appium:app",IFileLocation.APK_FILE);
     driver=new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
     driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(40));
     }
