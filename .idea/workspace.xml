@@ -4,39 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/CalculatorFirstPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/FlightSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pages/ItineraryPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/IWaitDurations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/PopupHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/SeleniumPageActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/utils/SyncActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/api/APIBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/api/AddUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/api/DeleteUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/api/GetUsers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/IFileLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/MobileBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/MobileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/web/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/tests/web/FlightPriceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/util/enums/BrowserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/util/prop/FilesPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/util/prop/PropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/apk_file/Calculator.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/properties/config.properties" afterDir="false" />
+    <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="damco assignment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/mobile/IFileLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/IFileLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/mobile/MobileBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/MobileBaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,25 +54,7 @@
       <recent name="C:\damco-web-mobile-api\src\test\resources\apk_file" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MobileTest.substract">
-    <configuration name="AddUser.addUser" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="damco-web-mobile-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.tests.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.tests.api" />
-      <option name="MAIN_CLASS_NAME" value="org.tests.api.AddUser" />
-      <option name="METHOD_NAME" value="addUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.MobileTest.multiply">
     <configuration name="DeleteUser.deleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
@@ -156,6 +109,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MobileTest.multiply" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="damco-web-mobile-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.tests.mobile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tests.mobile" />
+      <option name="MAIN_CLASS_NAME" value="org.tests.mobile.MobileTest" />
+      <option name="METHOD_NAME" value="multiply" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MobileTest.substract" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
@@ -176,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MobileTest.multiply" />
         <item itemvalue="TestNG.MobileTest.substract" />
         <item itemvalue="TestNG.MobileTest.add" />
         <item itemvalue="TestNG.GetUsers.getUsers" />
         <item itemvalue="TestNG.DeleteUser.deleteUser" />
-        <item itemvalue="TestNG.AddUser.addUser" />
       </list>
     </recent_temporary>
   </component>
@@ -205,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="damco assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="damco assignment" />
   </component>
 </project>
