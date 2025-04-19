@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 //Can we override static methods in java?
 //
 public class StaticMethodOverride {
