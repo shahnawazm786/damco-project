@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 // Static constructor
 // Can we use declare constructor static in java
 public class CanWeUserConstructorStatic {
