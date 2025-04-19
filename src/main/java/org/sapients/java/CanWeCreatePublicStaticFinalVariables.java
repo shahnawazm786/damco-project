@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 
 // Can we create public static final variables in java?
 public class CanWeCreatePublicStaticFinalVariables {
