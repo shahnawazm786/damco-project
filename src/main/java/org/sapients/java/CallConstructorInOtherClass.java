@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 
 public class CallConstructorInOtherClass {
     public static void main(String[] args) {
