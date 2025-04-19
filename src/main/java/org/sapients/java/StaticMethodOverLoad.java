@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 
 import org.openqa.selenium.WebDriver;
 
