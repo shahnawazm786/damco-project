@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 
 import java.util.HashMap;
 import java.util.Map;
