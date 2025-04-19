@@ -1,4 +1,4 @@
-package org.sapients;
+package org.sapients.java;
 // we can override the static method as well
 public class DemoOverride {
     public static void main(String[] args) {
