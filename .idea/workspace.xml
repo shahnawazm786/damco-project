@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="sapient question and answer">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/AccessPrivateConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/CanConstructorBePrivate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/question.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/seleniums/ConstructorInSelenium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/seleniums/TestPriority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/seleniums/TestRunHundredTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/Interface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/Interface2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -377,7 +375,56 @@
       <option name="project" value="LOCAL" />
       <updated>1745059328982</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="sapient question and answer">
+      <created>1745060960130</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060960130</updated>
+    </task>
+    <task id="LOCAL-00034" summary="sapient question and answer">
+      <created>1745060968929</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060968929</updated>
+    </task>
+    <task id="LOCAL-00035" summary="sapient question and answer">
+      <created>1745060974197</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060974197</updated>
+    </task>
+    <task id="LOCAL-00036" summary="sapient question and answer">
+      <created>1745060977856</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060977856</updated>
+    </task>
+    <task id="LOCAL-00037" summary="sapient question and answer">
+      <created>1745060983445</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060983445</updated>
+    </task>
+    <task id="LOCAL-00038" summary="sapient question and answer">
+      <created>1745060987274</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060987274</updated>
+    </task>
+    <task id="LOCAL-00039" summary="sapient question and answer">
+      <created>1745060991477</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1745060991477</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
