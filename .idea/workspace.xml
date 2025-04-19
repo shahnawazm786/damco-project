@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="damco assignment">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pra/interv/PermotationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/pra/interv/StringPermotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/CheckNullKeyAllowInMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/CanWeCreatePublicStaticFinalVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/DemoOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/ICanWeCreatePublicStaticFinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/StaticMethodOverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/StaticMethodOverride.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -56,9 +58,22 @@
       <recent name="C:\damco-web-mobile-api\src\test\resources\apk_file" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckNullKeyAllowInMap">
+  <component name="RunManager" selected="Application.DemoOverride">
     <configuration name="CheckNullKeyAllowInMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.sapients.CheckNullKeyAllowInMap" />
+      <module name="damco-web-mobile-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sapients.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOverride" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sapients.DemoOverride" />
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
@@ -114,31 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileTest.substract" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="damco-web-mobile-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.tests.mobile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.tests.mobile" />
-      <option name="MAIN_CLASS_NAME" value="org.tests.mobile.MobileTest" />
-      <option name="METHOD_NAME" value="substract" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoOverride" />
         <item itemvalue="Application.CheckNullKeyAllowInMap" />
         <item itemvalue="Application.StringPermotation" />
         <item itemvalue="Application.PermotationExample" />
         <item itemvalue="TestNG.MobileTest.multiply" />
-        <item itemvalue="TestNG.MobileTest.substract" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +176,63 @@
       <option name="project" value="LOCAL" />
       <updated>1744456959606</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="damco assignment">
+      <created>1745056709744</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056709744</updated>
+    </task>
+    <task id="LOCAL-00006" summary="damco assignment">
+      <created>1745056717755</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056717755</updated>
+    </task>
+    <task id="LOCAL-00007" summary="damco assignment">
+      <created>1745056723818</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056723818</updated>
+    </task>
+    <task id="LOCAL-00008" summary="damco assignment">
+      <created>1745056730105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056730105</updated>
+    </task>
+    <task id="LOCAL-00009" summary="damco assignment">
+      <created>1745056734158</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056734158</updated>
+    </task>
+    <task id="LOCAL-00010" summary="damco assignment">
+      <created>1745056740694</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056740694</updated>
+    </task>
+    <task id="LOCAL-00011" summary="damco assignment">
+      <created>1745056745235</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056745235</updated>
+    </task>
+    <task id="LOCAL-00012" summary="damco assignment">
+      <created>1745056966177</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1745056966177</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
