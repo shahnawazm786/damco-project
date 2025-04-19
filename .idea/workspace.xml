@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="damco assignment">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pra/interv/PermotationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/pra/interv/StringPermotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/CheckNullKeyAllowInMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/mobile/IFileLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/IFileLocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/mobile/MobileBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/tests/mobile/MobileBaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/damco-web-mobile-api/src/test/resources/apk_file"
+    "last_opened_file_path": "C:/damco-web-mobile-api/src/test/resources/apk_file",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -54,57 +56,42 @@
       <recent name="C:\damco-web-mobile-api\src\test\resources\apk_file" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MobileTest.multiply">
-    <configuration name="DeleteUser.deleteUser" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.CheckNullKeyAllowInMap">
+    <configuration name="CheckNullKeyAllowInMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.sapients.CheckNullKeyAllowInMap" />
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.tests.api.*" />
+          <option name="PATTERN" value="org.sapients.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.tests.api" />
-      <option name="MAIN_CLASS_NAME" value="org.tests.api.DeleteUser" />
-      <option name="METHOD_NAME" value="deleteUser" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetUsers.getUsers" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PermotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pra.interv.PermotationExample" />
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.tests.api.*" />
+          <option name="PATTERN" value="org.pra.interv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.tests.api" />
-      <option name="MAIN_CLASS_NAME" value="org.tests.api.GetUsers" />
-      <option name="METHOD_NAME" value="getUsers" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MobileTest.add" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StringPermotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.pra.interv.StringPermotation" />
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.tests.mobile.*" />
+          <option name="PATTERN" value="org.pra.interv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.tests.mobile" />
-      <option name="MAIN_CLASS_NAME" value="org.tests.mobile.MobileTest" />
-      <option name="METHOD_NAME" value="add" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckNullKeyAllowInMap" />
+        <item itemvalue="Application.StringPermotation" />
+        <item itemvalue="Application.PermotationExample" />
         <item itemvalue="TestNG.MobileTest.multiply" />
         <item itemvalue="TestNG.MobileTest.substract" />
-        <item itemvalue="TestNG.MobileTest.add" />
-        <item itemvalue="TestNG.GetUsers.getUsers" />
-        <item itemvalue="TestNG.DeleteUser.deleteUser" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +151,35 @@
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
     </task>
+    <task id="LOCAL-00001" summary="damco assignment">
+      <created>1744456946267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744456946267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="damco assignment">
+      <created>1744456950748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744456950748</updated>
+    </task>
+    <task id="LOCAL-00003" summary="damco assignment">
+      <created>1744456955209</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744456955209</updated>
+    </task>
+    <task id="LOCAL-00004" summary="damco assignment">
+      <created>1744456959606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744456959606</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
