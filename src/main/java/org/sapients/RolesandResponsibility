@@ -1,0 +1,53 @@
+Roles and Responsibilities as a Test Specialist:
+
+Requirement Analysis:
+
+Reviewed and understood business and technical requirements.
+
+Participated in requirement walk-throughs to identify testable elements.
+
+Test Planning:
+
+Prepared detailed test plans and test strategies.
+
+Estimated testing efforts and created testing schedules.
+
+Test Case Design & Execution:
+
+Designed manual and automated test cases based on requirements.
+
+Executed test cases and logged defects using tools like JIRA, ALM, or TestRail.
+
+Defect Management:
+
+Identified, reported, and tracked bugs.
+
+Worked closely with developers to resolve issues and verify fixes.
+
+Automation:
+
+Created and maintained test automation scripts using tools like Selenium, UFT, or Postman for API testing.
+
+Integrated automation tests into CI/CD pipelines where applicable.
+
+Regression & Smoke Testing:
+
+Performed smoke, sanity, and full regression tests during each release cycle.
+
+Ensured critical functionalities work after code changes.
+
+Collaboration & Communication:
+
+Attended daily stand-ups, sprint planning, and retrospectives in Agile/Scrum teams.
+
+Coordinated with developers, BAs, and stakeholders to ensure product quality.
+
+Reporting:
+
+Provided daily and weekly test status reports.
+
+Shared test coverage, test metrics, and defect trends with management.
+
+Tool Usage:
+
+Experienced in tools like JIRA, Confluence, Git, Jenkins, Selenium, and test management tools.
