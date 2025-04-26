@@ -1,0 +1,29 @@
+Round 1:(Technical)
+
+1. Tell me about your roles and responsibilities in your project?
+2. Have you created framework from scratch? Explain architecture?
+3. Which design pattern you have used in framework?
+4. Difference between Comparable and Comparator?
+5. What are cases where you will use finally block?
+6. Difference between Scrum and Kanban ?
+7. Smoke vs Sanity testing, Regression vs Retesting?
+8. In testNG how will you ensure that screenshots will be taken only for fail test cases ?
+9. How to perform data driven testing in postman ?
+10. What are the important validation you will put on API?
+11. Suppose you have 200 test cases and 49 test failed, how would you collect the data of only failed test cases in testNG. Best way?
+12. What is maven surefire plugin?
+
+Round 2(Technical)
+
+1. Explain how do you pick which test cases to automate ?
+2. Write code to find broken links in Selenium ?
+3. How do you handle multiple frames ? How would you switch to parent frame ?
+4. You have 10 links how will you print title of each link using selenium? Give optimal approach?
+5. In what cases you need to use implicit / explicit wait?
+6. What is null pointer exception?
+7. Difference between driver.get() vs driver. navigate().to()?
+8. How to handle Location popup in Selenium
+9. How to handle dynamic dropdowns in Selenium?
+10. Difference between default and public access modifier?
+11. What is method hiding in Java ?
+12. Write a java code to print all the array elements that appears at least 2 times. (means 2 or greater than two)
