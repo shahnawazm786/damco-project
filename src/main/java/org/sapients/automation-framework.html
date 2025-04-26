@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Automation Test Framework Architecture</title>
+</head>
+<body>
+<h2>✅ Automation Framework Architecture Explanation</h2>
+
+<h3>1. Project Structure:</h3>
+<ul>
+    <li><strong>src/main/java</strong>
+        <ul>
+            <li><code>pages/</code> – Page classes (POM)</li>
+            <li><code>utils/</code> – Utility classes (e.g., ExcelUtils, ConfigReader)</li>
+        </ul>
+    </li>
+    <li><strong>src/test/java</strong>
+        <ul>
+            <li><code>tests/</code> – Test classes</li>
+            <li><code>listeners/</code> – TestNG Listeners (for logs, reports, screenshots)</li>
+        </ul>
+    </li>
+    <li><strong>resources/</strong>
+        <ul>
+            <li><code>config.properties</code> – Configuration file</li>
+            <li><code>testdata/</code> – Excel or JSON test data</li>
+        </ul>
+    </li>
+    <li><strong>pom.xml</strong> – Maven dependencies</li>
+    <li><strong>testng.xml</strong> – TestNG suite file</li>
+</ul>
+
+<h3>2. Key Components:</h3>
+<ul>
+    <li><strong>Page Object Model (POM):</strong> Encapsulates UI interactions in reusable page classes.</li>
+    <li><strong>TestNG:</strong> Test execution framework (annotations, assertions, parallel run).</li>
+    <li><strong>Maven:</strong> Build tool to manage dependencies and test execution.</li>
+    <li><strong>Reporting:</strong> ExtentReports or Allure integrated via listeners.</li>
+    <li><strong>Utilities:</strong> Reading configs, handling waits, taking screenshots.</li>
+    <li><strong>CI Integration:</strong> Jenkins or GitHub Actions for scheduled/triggered test runs.</li>
+</ul>
+</body>
+</html>
