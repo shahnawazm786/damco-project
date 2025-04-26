@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="sapient question and answer">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/backtracking/IntArrayPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/backtracking/StringPermutation.java" afterDir="false" />
+    <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="leet code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/Infosys.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,27 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00001" summary="damco assignment">
-      <created>1744456946267</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1744456946267</updated>
-    </task>
-    <task id="LOCAL-00002" summary="damco assignment">
-      <created>1744456950748</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1744456950748</updated>
-    </task>
-    <task id="LOCAL-00003" summary="damco assignment">
-      <created>1744456955209</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1744456955209</updated>
     </task>
     <task id="LOCAL-00004" summary="damco assignment">
       <created>1744456959606</created>
@@ -483,7 +461,28 @@
       <option name="project" value="LOCAL" />
       <updated>1745191863689</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="leet code">
+      <created>1745659222811</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1745659222811</updated>
+    </task>
+    <task id="LOCAL-00051" summary="leet code">
+      <created>1745659227565</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1745659227565</updated>
+    </task>
+    <task id="LOCAL-00052" summary="leet code">
+      <created>1745659233098</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1745659233098</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,6 +499,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="damco assignment" />
     <MESSAGE value="sapient question and answer" />
-    <option name="LAST_COMMIT_MESSAGE" value="sapient question and answer" />
+    <MESSAGE value="leet code" />
+    <option name="LAST_COMMIT_MESSAGE" value="leet code" />
   </component>
 </project>
