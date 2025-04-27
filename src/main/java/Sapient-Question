@@ -1,0 +1,38 @@
+𝗣𝘂𝗯𝗹𝗶𝗰𝗶𝘀 𝗦𝗮𝗽𝗶𝗲𝗻𝘁 𝗦𝗗𝗘𝗧 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀
+
+Round 2 & 3 Shared by my friend Charan T M – big thanks to him for sharing this detailed insight!
+
+Following up on the Round 1 questions I shared earlier, here are the technical rounds that followed.
+
+𝗥𝗼𝘂𝗻𝗱 𝟮: 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 + 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+(𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 𝟱𝟬 𝗠𝗶𝗻𝘂𝘁𝗲𝘀)
+
+1. Explain your Selenium automation framework in detail.
+2. How to handle dynamic dropdowns in Selenium?
+3. Is it possible to automate CAPTCHA? Why or why not?
+4. Explain the exception hierarchy in Java.
+5. Difference between driver.get() and driver.navigate().to()?
+6. How to implement parameterization in TestNG?
+7. How does Maven integrate with TestNG?
+8. What are Java Streams and where have you used them?
+9. How do you manage config files in your Selenium framework?
+10. Difference between Page Object Model (POM) and Page Factory.
+
+ - How does Page Factory implement lazy initialization?
+ - Can we implement lazy loading in POM manually?
+
+11. TestNG Annotations hierarchy.
+12. How to re-run failed test cases in TestNG?
+
+𝗥𝗼𝘂𝗻𝗱 𝟯: 𝗥𝗲𝗮𝗹-𝗧𝗶𝗺𝗲 𝗦𝗲𝗹𝗲𝗻𝗶𝘂𝗺 𝗖𝗼𝗱𝗶𝗻𝗴 & 𝗦𝗰𝗲𝗻𝗮𝗿𝗶𝗼𝘀
+(𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 𝟰𝟱 𝗠𝗶𝗻𝘂𝘁𝗲𝘀)
+
+1. On Cricbuzz, extract a player’s sixes count using dynamic XPath based on player name.
+2. How do you use Selenium’s Actions class to perform keyboard operations?
+3. How to simulate a Control + Click using Actions class?
+4. Write code to perform a file upload in Selenium.
+5. Write Selenium code to take a screenshot.
+6. What are TestNG listeners? Write a simple example.
+7. Explain steps involved in manual API testing.
+
+These rounds were heavily focused on real-world Selenium implementation, Java concepts, and TestNG frameworks.
