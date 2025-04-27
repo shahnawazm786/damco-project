@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="Roles and resposbility">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sapient-Question" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="Roles and resposbility" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,20 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00011" summary="damco assignment">
-      <created>1745056745235</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1745056745235</updated>
-    </task>
-    <task id="LOCAL-00012" summary="damco assignment">
-      <created>1745056966177</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1745056966177</updated>
     </task>
     <task id="LOCAL-00013" summary="sapient question and answer">
       <created>1745057984977</created>
@@ -487,7 +470,21 @@
       <option name="project" value="LOCAL" />
       <updated>1745668608566</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Roles and resposbility">
+      <created>1745734743450</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1745734743450</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Roles and resposbility">
+      <created>1745734747762</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1745734747762</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
