@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="Interview Preparation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/LTIMindtree.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/WithoutMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/dbs_bank/ArrayIsNull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/dbs_bank/MainDeclaredPRivate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/sapients/java/strings/ReverseStringKeepSpecialCharacterAsItIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/sapients/java/strings/ReverseStringKeepSpecialCharacterAsItIs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dbs_bank/interview_question" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,69 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00027" summary="sapient question and answer">
-      <created>1745059304958</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059304958</updated>
-    </task>
-    <task id="LOCAL-00028" summary="sapient question and answer">
-      <created>1745059309407</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059309407</updated>
-    </task>
-    <task id="LOCAL-00029" summary="sapient question and answer">
-      <created>1745059314871</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059314871</updated>
-    </task>
-    <task id="LOCAL-00030" summary="sapient question and answer">
-      <created>1745059320061</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059320061</updated>
-    </task>
-    <task id="LOCAL-00031" summary="sapient question and answer">
-      <created>1745059325409</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059325409</updated>
-    </task>
-    <task id="LOCAL-00032" summary="sapient question and answer">
-      <created>1745059328982</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1745059328982</updated>
-    </task>
-    <task id="LOCAL-00033" summary="sapient question and answer">
-      <created>1745060960130</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1745060960130</updated>
-    </task>
-    <task id="LOCAL-00034" summary="sapient question and answer">
-      <created>1745060968929</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1745060968929</updated>
-    </task>
-    <task id="LOCAL-00035" summary="sapient question and answer">
-      <created>1745060974197</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1745060974197</updated>
     </task>
     <task id="LOCAL-00036" summary="sapient question and answer">
       <created>1745060977856</created>
@@ -491,7 +423,70 @@
       <option name="project" value="LOCAL" />
       <updated>1745985303176</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Interview Preparation">
+      <created>1747362970273</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1747362970273</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Interview Preparation">
+      <created>1747362974847</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1747362974847</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Interview Preparation">
+      <created>1747362982100</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1747362982100</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Interview Preparation">
+      <created>1747362992569</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1747362992569</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Interview Preparation">
+      <created>1747363015376</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363015376</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Interview Preparation">
+      <created>1747363025590</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363025590</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Interview Preparation">
+      <created>1747363127129</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363127129</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Interview Preparation">
+      <created>1747363133657</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363133657</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Interview Preparation">
+      <created>1747363138641</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363138641</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
