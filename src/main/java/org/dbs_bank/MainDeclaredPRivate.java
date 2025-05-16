@@ -1,4 +1,4 @@
-package org.sapients.java.dbs_bank;
+package org.dbs_bank;
 
 public class MainDeclaredPRivate {
     private static void main(String[] args) {
