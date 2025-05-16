@@ -1,4 +1,4 @@
-package org.sapients.java.dbs_bank;
+package org.dbs_bank;
 
 public class ArrayIsNull {
     public static void main(String[] args) {
