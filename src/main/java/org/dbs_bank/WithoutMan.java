@@ -1,4 +1,4 @@
-package org.sapients.java;
+package org.dbs_bank;
 
 public class WithoutMan {
     static {
