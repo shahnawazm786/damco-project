@@ -1,0 +1,20 @@
+1) Write a code snippet to validate if a text is highlighted and underlined on a webpage.
+2) What is the purpose of Background in Cucumber?
+3) What is the difference between 'And' and 'But' keywords in Cucumber?
+4) What is a Scenario Outline in Cucumber and how is it used?
+5) Write the skeleton of a Cucumber Test Runner class.
+6) How to scroll down a webpage using Selenium WebDriver?
+7) How to perform a right-click (context click) using Selenium?
+8) Explain the difference between final, finally, and finalize in Java.
+9) What is the difference between git rebase and git clone?
+10) Given a sentence with multiple spaces between words, write a Java method to reduce it to a single space between each word.
+
+Input: "My Name Is Ram"
+
+11) Can we execute a Java program without a main() method?
+12) What will happen if the main() method is declared as private?
+13) How to check whether an array is empty or null in Java?
+14) Write SQL queries using WHERE, ORDER BY, and GROUP BY clauses.
+15) Explain Jenkins and its use in automation testing.
+
+These questions cover important areas of Selenium, Java, Cucumber, Git, SQL, and CI/CD tools - all essential for QA Automation roles.
