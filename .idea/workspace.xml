@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="codility">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/codility/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codility/BinaryGap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,13 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00044" summary="sapient question and answer">
-      <created>1745061854823</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1745061854823</updated>
     </task>
     <task id="LOCAL-00045" summary="sapient question and answer">
       <created>1745191846170</created>
@@ -496,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1747463667206</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="codility">
+      <created>1747463886843</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1747463886843</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
