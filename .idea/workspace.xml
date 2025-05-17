@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="Interview Preparation">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/dbs_bank/interview_question" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/BinaryGap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/api/GetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/api/ProductsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/dbs_bank/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,7 @@
       <recent name="C:\damco-web-mobile-api\src\main\java\org\sapients" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayIsNull">
+  <component name="RunManager" selected="Application.BinaryGap">
     <configuration name="ArrayIsNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.sapients.java.dbs_bank.ArrayIsNull" />
       <module name="damco-web-mobile-api" />
@@ -72,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sapients.java.strings.CountDuplicateString" />
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.dbs_bank.ArraySort" />
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sapients.java.strings.*" />
+          <option name="PATTERN" value="org.dbs_bank.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterSpecialCharacterFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sapients.java.strings.FilterSpecialCharacterFromString" />
+    <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.BinaryGap" />
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sapients.java.strings.*" />
+          <option name="PATTERN" value="codility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,39 +103,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sapients.java.strings.RemoveDuplicateElements" />
+    <configuration name="GetExample.getPostById" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sapients.java.strings.*" />
+          <option name="PATTERN" value="org.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.api" />
+      <option name="MAIN_CLASS_NAME" value="org.api.GetExample" />
+      <option name="METHOD_NAME" value="getPostById" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringKeepSpecialCharacterAsItIs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.sapients.java.strings.ReverseStringKeepSpecialCharacterAsItIs" />
+    <configuration name="ProductsExample.getProducts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="damco-web-mobile-api" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.sapients.java.strings.*" />
+          <option name="PATTERN" value="org.api.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="org.api" />
+      <option name="MAIN_CLASS_NAME" value="org.api.ProductsExample" />
+      <option name="METHOD_NAME" value="getProducts" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinaryGap" />
+        <item itemvalue="TestNG.ProductsExample.getProducts" />
+        <item itemvalue="TestNG.GetExample.getPostById" />
+        <item itemvalue="Application.ArraySort" />
         <item itemvalue="Application.ArrayIsNull" />
-        <item itemvalue="Application.ReverseStringKeepSpecialCharacterAsItIs" />
-        <item itemvalue="Application.FilterSpecialCharacterFromString" />
-        <item itemvalue="Application.CountDuplicateString" />
-        <item itemvalue="Application.RemoveDuplicateElements" />
       </list>
     </recent_temporary>
   </component>
@@ -142,20 +157,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00036" summary="sapient question and answer">
-      <created>1745060977856</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1745060977856</updated>
-    </task>
-    <task id="LOCAL-00037" summary="sapient question and answer">
-      <created>1745060983445</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1745060983445</updated>
     </task>
     <task id="LOCAL-00038" summary="sapient question and answer">
       <created>1745060987274</created>
@@ -486,7 +487,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747363138641</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Interview Preparation">
+      <created>1747363197349</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363197349</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Interview Preparation">
+      <created>1747363201523</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1747363201523</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
