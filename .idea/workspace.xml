@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="codility">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codility/FrogJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codility/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <recent name="C:\damco-web-mobile-api\src\main\java\org\sapients" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FrogJump">
+  <component name="RunManager" selected="Application.MissingNumber">
     <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codility.BinaryGap" />
       <module name="damco-web-mobile-api" />
@@ -99,6 +99,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codility.MissingNumber" />
+      <module name="damco-web-mobile-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OddOccuranceInArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codility.OddOccuranceInArrays" />
       <module name="damco-web-mobile-api" />
@@ -112,31 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductsExample.getProducts" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="damco-web-mobile-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.api.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.api" />
-      <option name="MAIN_CLASS_NAME" value="org.api.ProductsExample" />
-      <option name="METHOD_NAME" value="getProducts" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.FrogJump" />
         <item itemvalue="Application.OddOccuranceInArrays" />
         <item itemvalue="Application.CyclicRotation" />
         <item itemvalue="Application.BinaryGap" />
-        <item itemvalue="TestNG.ProductsExample.getProducts" />
       </list>
     </recent_temporary>
   </component>
@@ -148,20 +143,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Roles and resposbility">
-      <created>1745668604701</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1745668604701</updated>
-    </task>
-    <task id="LOCAL-00059" summary="Roles and resposbility">
-      <created>1745668608566</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1745668608566</updated>
     </task>
     <task id="LOCAL-00060" summary="Roles and resposbility">
       <created>1745734743450</created>
@@ -492,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747492769760</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="codility">
+      <created>1747493508902</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1747493508902</updated>
+    </task>
+    <task id="LOCAL-00108" summary="codility">
+      <created>1747493514435</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1747493514435</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
