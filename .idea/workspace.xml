@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06b3873d-dc76-4ce2-9a29-ae19ab7ebf7a" name="Changes" comment="codility">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codility/OddOccuranceInArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/codility/OddOccuranceInArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codility/OddOccuranceInArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,20 +153,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743784853749</updated>
-    </task>
-    <task id="LOCAL-00052" summary="leet code">
-      <created>1745659233098</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1745659233098</updated>
-    </task>
-    <task id="LOCAL-00053" summary="leet code">
-      <created>1745668000207</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1745668000207</updated>
     </task>
     <task id="LOCAL-00054" summary="leet code">
       <created>1745668007036</created>
@@ -497,7 +483,21 @@
       <option name="project" value="LOCAL" />
       <updated>1747491292006</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="codility">
+      <created>1747492324937</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1747492324937</updated>
+    </task>
+    <task id="LOCAL-00102" summary="codility">
+      <created>1747492332402</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1747492332402</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
