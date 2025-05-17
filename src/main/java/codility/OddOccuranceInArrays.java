@@ -12,7 +12,7 @@ public class OddOccuranceInArrays {
         for(int a:A){
             //int a=A[i];
             if(aList.contains(a)){
-                aList.remove(a);
+                aList.remove(Integer.valueOf(a));
             }
             else {
                 aList.add(a);
@@ -26,7 +26,7 @@ public class OddOccuranceInArrays {
         for(int a:A){
             //int a=A[i];
             if(aHash.contains(a)){
-                aHash.remove(a);
+                aHash.remove(Integer.valueOf(a));
             }
             else {
                 aHash.add(a);
